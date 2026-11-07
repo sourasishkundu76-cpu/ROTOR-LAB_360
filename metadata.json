@@ -1,0 +1,6 @@
+{
+  "name": "ROTORLAB 360 - Drone Rotor Arm CAD & Simulation Studio",
+  "description": "Interactive SolidWorks design, FEA structural simulation, load calculation, and engineering report studio for drone rotor arms (ESCME192 IEM).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
